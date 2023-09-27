@@ -8,4 +8,7 @@ add_executable(LeetCodeTop150
         #2_27.cpp
         #3_26.cpp
         #4_80.cpp
-        5_169.cpp)
+        #5_169.cpp
+        #6_189.cpp
+        #7_121.cpp
+        8_122.cpp)
